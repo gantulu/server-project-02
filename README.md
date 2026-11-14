@@ -15,7 +15,7 @@ Details:
 .env
 SUPABASE_URL=https://zyiavfljweavoxyyplxj.supabase.co
 SUPABASE_PUBLISHABLE_KEY=sb_publishable_J9gIIsGGLYX78vXHd99V8A_9qVLhQmR
-SUPABASE_SECRET_KEY=sb_secret_9XHzB••••••••••••••••••••
+SUPABASE_SECRET_KEY=sb_secret_9XHzBPQ5wtGuYLbTdUhMlA_J6WzPtP0
 SUPABASE_JWKS_URL=https://zyiavfljweavoxyyplxj.supabase.co/auth/v1/.well-known/jwks.json
 On Edge Functions these are injected automatically. For other runtimes, copy the values above. Manage keys in API Keys settings.
 

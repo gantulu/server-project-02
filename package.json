@@ -6,7 +6,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@supabase/server": "1.9.1",
+    "@supabase/server": "1.9.2",
     "@supabase/supabase-js": "2.119.0"
   },
   "devDependencies": {
